@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Numan
 - 👀 I’m interested in convert new thing to computerized
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning Node.js, Java, Python, MongoDB, And mySQL
 - 💞️ I’m looking to collaborate on node js projects 
 - 📫 ha6k3r.me@gmail.com
 <!---
